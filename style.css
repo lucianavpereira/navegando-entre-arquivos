@@ -47,11 +47,13 @@ h1 {
 p {
     text-indent: 20px;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 img {
     display: block;
     margin: auto;
     width: 90%;
-    margin-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
